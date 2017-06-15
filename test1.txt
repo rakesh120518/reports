@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 109C-008A
-
- Directory of C:\Users\rakesha\Desktop\Mygitproject
-
-06/14/2017  04:56 PM    <DIR>          .
-06/14/2017  04:56 PM    <DIR>          ..
-06/14/2017  04:56 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  128,511,565,824 bytes free
+ Changed the text for testing
